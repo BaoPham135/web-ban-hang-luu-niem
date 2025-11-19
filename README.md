@@ -24,14 +24,14 @@ III. CÁCH CÀI ĐẶT & CHẠY DỰ ÁN (LOCALHOST - XAMPP)
 ----------------------------------------------------------------------
 1. Cài đặt XAMPP
 2. Copy toàn bộ thư mục SourceCode vào:
-   htdocs/<ten_du_an>/
+   htdocs/My_web/
 3. Khởi động Apache và MySQL
 4. Import Database:
    - Mở phpMyAdmin
-   - Tạo database mới: <ten_database>
-   - Import file: Database/database.sql
+   - Tạo database mới: <web_mysqli>
+   - Import file: Database/web_mysqli.sql
 5. Chạy dự án:
-   http://localhost/<ten_du_an>
+   http://localhost/<My_web>
 
 ----------------------------------------------------------------------
 IV. TÀI KHOẢN ĐĂNG NHẬP
